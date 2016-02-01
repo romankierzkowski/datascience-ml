@@ -4,6 +4,7 @@ author: "Roman Kierzkowski"
 date: "January 31, 2016"
 output:
   html_document:
+    self_contained: no
     theme: journal
 ---
 
